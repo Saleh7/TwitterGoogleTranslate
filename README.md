@@ -20,7 +20,7 @@ There are also user script managers for other browsers.
 See the [Greasy Fork's page on   user script installations](https://greasyfork.org/en/help/installing-user-scripts) for more details.
 
 ---------
-#### Install the Userscript in [TwitterGoogleTranslate.js](https://raw.githubusercontent.com/Saleh7/TwitterGoogleTranslate/master/TwitterGoogleTranslate.js)
+#### Install the Userscript in [TwitterGoogleTranslate.js](https://github.com/Saleh7/TwitterGoogleTranslate/raw/master/TwitterGoogleTranslate.user.js)
 
 ## edit file
 
