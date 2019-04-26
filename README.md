@@ -7,11 +7,11 @@ Translate Tweets By Google | Script Greasemonkey/Tampermonkey
 
 #### Example: Translate to English ..
 
-![Example to en](https://raw.githubusercontent.com/Saleh7/TwitterGoogleTranslate/master/exampleToEn.gif)
+![Example to en](https://raw.githubusercontent.com/Saleh7/TwitterGoogleTranslate/master/exampleToAr.gif)
 
 #### Example: Translate to Arabic ..
 
-![Example to ar](https://raw.githubusercontent.com/Saleh7/TwitterGoogleTranslate/master/exampleToAr.gif)
+![Example to ar](https://raw.githubusercontent.com/Saleh7/TwitterGoogleTranslate/master/exampleToEn.gif)
 
 ## Installation
 
